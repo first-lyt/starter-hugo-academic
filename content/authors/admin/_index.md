@@ -6,6 +6,7 @@ interests:
   - Structure formation
   - Epoch of Reioniztion
   - Cosmic Microwave Background
+  - Cosmological Simulations
 social:
   - icon: envelope
     icon_pack: fas
@@ -34,4 +35,4 @@ highlight_name: true
 title: Divesh Jain
 email: djain@ncra.tifr.res.in
 ---
-Welcome to my webpage! I am Divesh Jain, a Ph.D. candidate at NCRA-TIFR. I am working with Dr. Tirthankar Roy Choudhury for my thesis on modeling of CMB anisotropies sourced from the reionization era.
+Welcome to my webpage! I am Divesh Jain, a Ph.D. candidate at NCRA-TIFR. I am working with Dr. Tirthankar Roy Choudhury for my thesis on modeling of CMB anisotropies sourced from the reionization era. I am inter
