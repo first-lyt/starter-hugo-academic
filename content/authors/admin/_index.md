@@ -2,9 +2,9 @@
 role: Research Scholar at NCRA-TIFR
 bio: My research interests include Structure formation, Epoch of Reioniztion, CMB.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Structure formation
+  - Epoch of Reioniztion
+  - CMB.
 social:
   - icon: envelope
     icon_pack: fas
