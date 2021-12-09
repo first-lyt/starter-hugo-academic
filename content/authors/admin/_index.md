@@ -23,7 +23,7 @@ organizations:
     url: http://www.ncra.tifr.res.in/ncra/main
 education:
   courses:
-    - course: Ph.D.  (Iin progress!)
+    - course: Ph.D.  (work in progress!)
       institution: National Center for Radio Astrophysics
       year: ""
     - course: B. Tech in Electrical and Electronics Engineering
