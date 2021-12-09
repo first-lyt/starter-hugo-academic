@@ -1,6 +1,7 @@
 ---
 role: Research Scholar at NCRA-TIFR
-bio: My research interests include Structure formation, Epoch of Reioniztion, CMB.
+bio: My research interests include Structure formation, Epoch of Reioniztion,
+  Cosmic Microwave Background
 interests:
   - Structure formation
   - Epoch of Reioniztion
