@@ -1,6 +1,6 @@
 ---
 role: Research Scholar at NCRA-TIFR
-avatar_filename: avatar.jpg
+avatar_filename: oie_en1qp2cgjlog.jpg
 bio: My research interests include Structure formation, Epoch of Reioniztion,
   Cosmic Microwave Background
 interests:
@@ -24,7 +24,7 @@ organizations:
     url: http://www.ncra.tifr.res.in/ncra/main
 education:
   courses:
-    - course: PhD
+    - course: "Ph.D. "
       institution: National Center for Radio Astrophysics
       year: ""
     - course: B. Tech in Electrical and Electronics Engineering
