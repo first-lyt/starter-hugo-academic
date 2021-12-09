@@ -33,6 +33,6 @@ education:
 superuser: true
 highlight_name: true
 title: Divesh Jain
-email: djain@ncra.tifr.res.in
+email: ""
 ---
 Welcome to my webpage! I am Divesh Jain, a Ph.D. candidate at NCRA-TIFR. I am working with Dr. Tirthankar Roy Choudhury for my thesis on modeling of CMB anisotropies sourced from the reionization era. I am inter
