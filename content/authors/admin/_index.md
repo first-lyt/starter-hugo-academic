@@ -1,8 +1,7 @@
 ---
 role: Research Scholar at NCRA-TIFR
 avatar_filename: oie_en1qp2cgjlog.jpg
-bio: My research interests include Structure formation, Epoch of Reioniztion,
-  Cosmic Microwave Background
+bio: Ph.D. Candidate at NCRA-TIFR
 interests:
   - Structure formation
   - Epoch of Reioniztion
