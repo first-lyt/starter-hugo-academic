@@ -25,7 +25,7 @@ organizations:
 education:
   courses:
     - course: PhD
-      institution: NCRA-TIFR
+      institution: National Center for Radio Astrophysics
       year: ""
     - course: B. Tech in Electrical and Electronics Engineering
       institution: VSSUT, Burla
