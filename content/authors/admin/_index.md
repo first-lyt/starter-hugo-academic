@@ -1,6 +1,6 @@
 ---
 role: Research Scholar at NCRA-TIFR
-avatar_filename: oie_en1qp2cgjlog.jpg
+avatar_filename: avatar.png
 bio: Ph.D. Candidate at NCRA-TIFR
 interests:
   - Structure formation
