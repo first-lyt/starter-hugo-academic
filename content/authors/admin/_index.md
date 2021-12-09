@@ -1,5 +1,6 @@
 ---
 role: Research Scholar at NCRA-TIFR
+avatar_filename: dsc_0039.jpg
 bio: My research interests include Structure formation, Epoch of Reioniztion,
   Cosmic Microwave Background
 interests:
