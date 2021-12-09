@@ -1,5 +1,5 @@
 ---
-role: Research Scholar at NCRA-TIFR
+role: Research Scholar at NCRA
 avatar_filename: avatar.png
 bio: Ph.D. Candidate at NCRA-TIFR
 interests:
