@@ -1,5 +1,5 @@
 ---
-title: Role of CMB In constrainint the era of reionization
+title: Role of CMB In constraining the era of reionization
 date: 2021-12-09T05:54:31.803Z
 draft: false
 featured: false
