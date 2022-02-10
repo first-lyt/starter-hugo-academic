@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: djain@ncra.tifr.res.in
+    link: http://www.ncra.tifr.res.in/ncra/people/Academic_StudentsPage?oid=337
     display:
       header: false
   - icon: graduation-cap
