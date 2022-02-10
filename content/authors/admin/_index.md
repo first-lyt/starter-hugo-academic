@@ -20,7 +20,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/divesh-jain-a55bab98/
 organizations:
-  - name: National Center for Radio Astrophysics
+  - name: National Centre for Radio Astrophysics
     url: http://www.ncra.tifr.res.in/ncra/main
 education:
   courses:
