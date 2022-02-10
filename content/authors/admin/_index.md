@@ -19,6 +19,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/divesh-jain-a55bab98/
+  - display:
+      header: false
+    link: https://github.com/diveshjain-phy
+    icon_pack: fab
+    icon: github-alt
 organizations:
   - name: National Centre for Radio Astrophysics
     url: http://www.ncra.tifr.res.in/ncra/main
