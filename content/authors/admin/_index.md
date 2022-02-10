@@ -30,7 +30,7 @@ organizations:
 education:
   courses:
     - course: Ph.D.  (work in progress!)
-      institution: National Center for Radio Astrophysics
+      institution: National Centre for Radio Astrophysics
       year: ""
     - course: B. Tech in Electrical and Electronics Engineering
       institution: VSSUT, Burla
