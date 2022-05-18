@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: portfolio
 widget_id: Book Recomendations
 headless: true
 weight: 10
