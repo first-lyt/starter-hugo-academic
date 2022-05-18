@@ -2,7 +2,7 @@
 widget: portfolio
 widget_id: Book Recomendations
 headless: true
-weight: 10
+weight: 100
 active: true
 design:
   columns: "2"
