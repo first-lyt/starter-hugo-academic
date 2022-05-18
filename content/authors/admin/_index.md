@@ -4,7 +4,7 @@ avatar_filename: ""
 bio: Ph.D. Candidate at NCRA-TIFR
 interests:
   - Structure formation
-  - Epoch of Reioniztion
+  - Epoch of Reionization
   - Cosmic Microwave Background
   - Cosmological Simulations
 social:
