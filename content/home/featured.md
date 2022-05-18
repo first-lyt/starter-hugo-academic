@@ -1,6 +1,6 @@
 ---
 widget: featured
-widget_id: My Publications
+widget_id: Previous Publications
 weight: 80
 title: Featured Publications
 subtitle: ""
